@@ -1,0 +1,18 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+   <meta charset="UTF-8">
+   <title>Menú principal</title>
+    </head>
+    <body>
+        <h1>Bienvenido al menú principal</h1>
+        <p>
+             Ir a <a href="pagina2.html">Ir a la página 2</a>
+        </p>
+
+        <p>Ir a <a href="pagina3.html">Ir a la página 3</a>
+        </p>
+    </body>
+</html>
+
+ 

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Problema 5</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>Hipervinculo a Periodico</h1>
+        <p>
+            <a href="https://www.clarin.com/?srsltid=AfmBOoom9-rop3RQa6f50Equ28iQ8vomtD6UhJklTvZsFfli-fzkY02r">Ir a Diario Clarin</a>
+        </p>
+        <p>
+            <a href="https://www.clarin.com/politica/gobierno-ahora-niega-acuerdo-rovira-acuso-pro-hacer-caer-proyecto-ficha-limpia-vez-mintieron_0_ftPSvUjWT9.html">Ir a seccion noticia de política</a>
+        </p>
+    </body>
+    </html>
+    

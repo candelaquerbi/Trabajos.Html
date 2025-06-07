@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Formulario de CV</title>
+    </head>
+    <body>
+        <h2>Carga de Curriculum Vitae</h2>
+
+        <form action="procesar_cv.php" method="get">
+
+            <legend>Datos Personales</legend>
+            <label for="nombre">Nombre Completo:</label>
+            <input type="text" id="nombre" name="nombre" required><br><br>
+
+            <label for="dni">DNI:</label><br>
+            <input type="text" id="dni" name="email"><br><br>
+
+            <label fr="email">Correo Electrónico:</label><br>
+            <input type="email" id="telefono" name="telefono"><br><br>
+            <br>
+
+            <legend>Información Académica</legend>
+            <label for="titulo">Título Alcanzado:</label><br>
+            <input type="text" id="titulo" name="titulo"><br><br>
+            
+            <label for="institucion">Institución:</label><br>
+            <input type="text" id="institucion" name="institucion"><br><br>
+
+            <label for="anio_egreso">Año de egreso:</label><br>
+            <input type="number" id="anio_egreso" name="anio egreso"><br><br>
+            <br>
+
+            <legend>Experiencia Laboral</legend>
+            <label for="empresa">Empresa:</label><br>
+            <input type="text" id="empresa" name="empresa"><br><br>
+
+            <label for="puesto">Puesto Desempeñado:</label><br>
+            <input type="text" id="duracion" name="referencia_nombre"><br><br>
+
+            <label for="duracion">Duración (meses o años):</label><br>
+            <input type="text" id="duracion" name="duracion"><br><br>
+            <br>
+
+            <legend>Referencias</legend>
+            <label for="referencia_nombre">Nombre:</label><br>
+            <label type="text" id="referencia_nombre" name="referencia_contacto"><br><br>
+
+                <input type="submit" value="Enviar CV">
+            </form>
+            </body>
+            </html>
